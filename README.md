@@ -14,32 +14,6 @@ This CCE-robot Hama:bit Car package was developed by [CCE](https://sozo.cce.shiz
 
 Read more at https://makecode.microbit.org/extensions
 
-## CCE-robot
-
-* turn right
-
-```blocks
-input.onButtonPressed(Button.A, () => {
-    robot.turnRight(1000);
-})
-```
-
-* go forward
-
-```blocks
-input.onButtonPressed(Button.B, () => {
-    robot.driveForwards(1000);
-})
-```
-
-* stop both motors when pressing ``A+B``
-
-```blocks
-input.onButtonPressed(Button.AB, () => {
-    robot.stop();
-})
-```
-
 
 ## Supported targets
 
