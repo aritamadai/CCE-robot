@@ -1,7 +1,7 @@
 {
     "name": "cce-robot",
-    "version": "0.0.0",
-    "description": "",
+    "version": "1.0.0",
+    "description": "CCE hama:bit car",
     "dependencies": {
         "core": "*",
         "radio": "*"
