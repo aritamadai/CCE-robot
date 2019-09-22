@@ -1,5 +1,5 @@
-# cce-robot
-
+# cce-robot hama:bit Car Package
+This CCE-robot Hama:bit Car package was developed by [CCE](https://www.cce.shizuoka.ac.jp).
 
 
 ## TODO
